@@ -27,6 +27,7 @@ Cliquer sur 'Ajouter une entrée DNS'
 Deux choix : soit faire un pointage avec 'A' et rentrer une adresse IP qui si à l'avenir on souhaite changer de serveur va garder le même lien vers le nom de domaine, soit CNAME avec l'adresse de l'autre hôte (ex : vps355203.ovh.net.) avec le point final.
 
 Si on ne tombe pas sur la bonne page, il Faut reconfigurer le Virtual Host pour qu'il appelle la bonne page :
+```
 <VirtualHost *:80>
 DocumentRoot /var/www/html/code-closet/public/
 ServerName code-closet.com
@@ -34,4 +35,5 @@ ServerName code-closet.com
                 AllowOverride All
         </Directory>
 </VirtualHost>
+```
 
