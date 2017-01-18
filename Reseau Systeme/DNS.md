@@ -18,3 +18,20 @@ La création de sous-domaines peut présenter un intérêt dans le cadre de l’
 Il semble cependant que la création de sous-domaines a de moins en moins d’impact pour l’optimisation du référencement sur Google.
 La présence de sous-domaines peut également être utilisée à des fins de répartition de charges sur des serveurs lors de pics de trafic.
 
+##Acheter et Configurer le nom de domaine :
+Créer un compte sur Ovh et ensuite le valider puis choisir un ".com".
+
+###Configuration du DNS :
+Cliquer sur le nom de domaine choisi, puis Zone DNS.
+Cliquer sur 'Ajouter une entrée DNS'
+Deux choix : soit faire un pointage avec 'A' et rentrer une adresse IP qui si à l'avenir on souhaite changer de serveur va garder le même lien vers le nom de domaine, soit CNAME avec l'adresse de l'autre hôte (ex : vps355203.ovh.net.) avec le point final.
+
+Si on ne tombe pas sur la bonne page, il Faut reconfigurer le Virtual Host pour qu'il appelle la bonne page :
+<VirtualHost *:80>
+DocumentRoot /var/www/html/code-closet/public/
+ServerName code-closet.com
+        <Directory /var/www/html/code-closet/public/>
+                AllowOverride All
+        </Directory>
+</VirtualHost>
+
