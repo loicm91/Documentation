@@ -16,4 +16,4 @@
 ####C'est le principe d'affecter les classes et les objets d'une autre Class qui devient 'parent'.
 
 ##Surcharger / overriding :
-####Si une Class override les méthodes qui sont héritées, elles garderont leurs fonctionnalités de départ.
+####Si une Class override les méthodes qui sont héritées, elles (les méthodes) garderont leurs fonctionnalités de départ.
