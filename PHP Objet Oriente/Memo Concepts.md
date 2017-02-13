@@ -7,7 +7,7 @@
 ####C'est une méthode qui permet de récupérer une valeur et aussi de la modifier.
 
 ##Setter : 
-####C'est une méthode qui permet de vérifier une donnée avant d'être stockée.
+####C'est une méthode qui permet de vérifier, mais surtout elle affecte une donnée avant d'être stockée.
 
 ##Instancier : 
 ####C'est la création d'un objet qui va dépendre d'une Class. ex : $perso = new Personnage, $perso sera un objet de type Personnage (qui est la Class)
