@@ -11,7 +11,7 @@
 
 ##Instancier : 
 ####C'est la création d'un objet qui va dépendre d'une Class. ex : $perso = new Personnage, $perso sera un objet de type Personnage (qui est la Class)
-'function __construct()':
+function __construct():
 C'est le constructeur de la classe, soit la fonction qui s'exécute automatiquement et qui permet d'exploiter les variables que tu peux passer quand tu instancies ta classe.
 
 ##Héritage/ inheritance :
