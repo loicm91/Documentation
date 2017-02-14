@@ -28,3 +28,7 @@ On parle également de "heartbeat retrospectives" pour insister sur le fait que 
 
 ##Scrum Master :
 ####C'est un facilitateur qui permet un bon déroulement entre l'équipe et le Product Owner, il gère la communication et le fonctionnement dans la globalité du processus Scrum.
+
+##Return On Time Invested (ROTI) :
+####Pour conclure la rétrospective, il est conseillé de faire une activité, par exemple ROTI :
+Le ROTI est un indicateur de comment les participants ont perçu le temps qu’ils ont investi en participant à cette réunion sur une échelle de 1 (“aucun bénéfice par rapport au temps investi”) à 5 (“Je n’aurais pas pu mieux utiliser mon temps”).
