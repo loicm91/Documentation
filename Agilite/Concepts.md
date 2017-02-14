@@ -11,3 +11,8 @@ a contrario, dès qu'on a connaissance d'une tâche qu'on pense nécessaire pour
 Ces propriétés s'apprécient relativement à l'état des connaissances de l'équipe à un instant donné: l'élaboration du backlog peut se poursuivre tout au long du projet.
 Il est le principal référentiel de l'équipe en matière d'exigences. 
 Il se matérialise sous forme d'un tableau Excel ou de post-its sur un mur, mais jamais sous forme d'un cahier des charges.
+
+##Rétrospective :
+####L'équipe se réunit périodiquement, le plus souvent à un rythme calé sur celui des itérations, pour réfléchir explicitement sur les événements saillants depuis la précédente réunion de ce type, et décider collectivement des actions d'amélioration ou de remédiation suggérées par la discussion.
+Le plus souvent il s'agit d'une réunion facilitée et utilisant un format prédéterminé, l'intention étant de s'assurer que tous les membres de l'équipe ont l'occasion de s'exprimer.
+On parle également de "heartbeat retrospectives" pour insister sur le fait que leur régularité contribue à donner au projet une cadence (le sens littéral est "battement de coeur").
