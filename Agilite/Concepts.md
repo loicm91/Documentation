@@ -16,3 +16,15 @@ Il se matérialise sous forme d'un tableau Excel ou de post-its sur un mur, mais
 ####L'équipe se réunit périodiquement, le plus souvent à un rythme calé sur celui des itérations, pour réfléchir explicitement sur les événements saillants depuis la précédente réunion de ce type, et décider collectivement des actions d'amélioration ou de remédiation suggérées par la discussion.
 Le plus souvent il s'agit d'une réunion facilitée et utilisant un format prédéterminé, l'intention étant de s'assurer que tous les membres de l'équipe ont l'occasion de s'exprimer.
 On parle également de "heartbeat retrospectives" pour insister sur le fait que leur régularité contribue à donner au projet une cadence (le sens littéral est "battement de coeur").
+
+##Itération :
+####Une itération au sens Agile est une "boite de temps" ou "timebox" dont la durée varie d'un projet à l'autre, en moyenne cela varie entre 1 à 4 semaines.
+
+##Vélocité : 
+####Valeur de travail que nécessite une tâche.
+
+##User Stories: 
+####C'est une des tâches appartenant au backlog qui permait de déterminer l'ensemble du projet. Cette tâche reste flexible pour les intervenants, car il est souvent représenté sous forme de Post-It.
+
+##Scrum Master :
+####C'est un facilitateur qui permet un bon déroulement entre l'équipe et le Product Owner, il gère la communication et le fonctionnement dans la globalité du processus Scrum.
