@@ -11,4 +11,7 @@ Pour un meilleur contrôle, vous pouvez définir les niveaux de cache manuelleme
 
 Si vous utilisez des fichiers relativement petits (environ 1 mégapixel ou 1 280 x 1 024 pixels) et de nombreux calques (plus de 50), définissez les niveaux de cache sur 1 ou 2. La définition des niveaux de cache à 1 désactive la mise en mémoire cache de l’image ; seule l’image à l’écran est placée dans le cache.
 Si vous utilisez des fichiers avec des dimensions en pixels supérieures (50 mégapixels ou plus), définissez les niveaux de cache sur une valeur supérieure à 50. Les niveaux de cache plus élevés accélèrent le retraçage.
+
 Remarque : Vous risquez de ne pas obtenir des résultats de haute qualité avec certaines fonctionnalités de Photoshop si vous définissez les niveaux de cache sur 1.
+
+Source : https://helpx.adobe.com/fr/photoshop/kb/optimize-photoshop-cc-performance.html
