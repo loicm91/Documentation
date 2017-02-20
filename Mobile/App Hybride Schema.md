@@ -1,3 +1,3 @@
 #Schéma d'une appli Hybride
 
-![](P:\Mobile\AppHybrideschéma.jpg)
+![](https://github.com/loicm91/Documentation/blob/master/Mobile/AppHybrideschema.jpg)
