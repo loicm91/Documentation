@@ -1,3 +1,3 @@
 #Schéma d'une appli Hybride
 
-![schéma](P:\Mobile\AppHybrideschéma.jpg)
+![](P:\Mobile\AppHybrideschéma.jpg)
