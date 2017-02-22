@@ -3,9 +3,9 @@
 ##App.Js : 
 ####Créer la route dans les .states :
 
-'''
+```
 
-  .state('app.contacts', {
+.state('app.contacts', {
     url: '/contacts',
     views: {
       'menuContent': {
@@ -14,5 +14,14 @@
       }
     }
   })
+  .state('app.contact', {
+    url: '/contacts/:idUser',
+    views: {
+      'menuContent': {
+        templateUrl: 'templates/contact.html',
+        controller: 'ContactCtrl'
+      }
+    }
+  })
  
-  '''
+```
