@@ -11,4 +11,12 @@ Mettre le Path dans le .bashrc :
 export PATH=$PATH:'c:\uwamp\bin\database\mysql-5.7.11\bin\:c:\Users\loic.maupin\AppData\Roaming\npm\node_modules\cordova\bin\
 ```
 
-###Plugin :
+Tester :
+```
+$ cordova
+```
+
+###Plugin : Lancer l'installation du plugin
+```
+cordova plugin add cordova-plugin-geolocation
+```
