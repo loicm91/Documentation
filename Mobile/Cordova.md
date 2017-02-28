@@ -21,4 +21,5 @@ $ cordova
 cordova plugin add cordova-plugin-geolocation
 ```
 
-[Tuto du plugin](https://www.npmjs.com/package/tal-cordova-plugin-geolocation)
+===> [Tuto du plugin](https://www.npmjs.com/package/tal-cordova-plugin-geolocation)
+===> [Géolocalisation suite projet](https://github.com/loicm91/Documentation/blob/master/Mobile/Geolocation.md)
