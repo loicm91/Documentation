@@ -16,7 +16,9 @@ Tester :
 $ cordova
 ```
 
-###Plugin : Lancer l'installation du plugin
+###Plugin : Lancer l'installation du plugin (ex:
 ```
 cordova plugin add cordova-plugin-geolocation
 ```
+
+[Tuto du plugin](https://www.npmjs.com/package/tal-cordova-plugin-geolocation)
