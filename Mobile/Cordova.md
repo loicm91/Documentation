@@ -16,7 +16,7 @@ Tester :
 $ cordova
 ```
 
-###Plugin : Lancer l'installation du plugin (ex:
+###Plugin : Lancer l'installation du plugin (ex: plugin géolocalisation)
 ```
 cordova plugin add cordova-plugin-geolocation
 ```
