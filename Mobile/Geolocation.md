@@ -1,4 +1,4 @@
-#Current location (html) localise le portable par wi-fi ou internet
+# I] Current location (html) localise le portable par wi-fi ou internet
 
 ```
 <ion-view view-title="Maps">
@@ -27,7 +27,7 @@ angular.module('starter.mapcontroller', [])
   });
 })
 ```
-#$cordovaGeolocation
+# II] $cordovaGeolocation : Permet de se localiser en direct avec la puce du téléphone
 
 Dans le app.js :
 ```
