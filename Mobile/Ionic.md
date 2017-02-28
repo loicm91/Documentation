@@ -10,7 +10,20 @@ export PATH=$PATH:'c:\uwamp\bin\database\mysql-5.7.11\bin\:c:\Users\loic.maupin\
 ```
 ### tester Ionic dans .bash :
 ```
-$ Ionic 
+$ ionic 
+```
+### lancer le projet :
+```
+$ ionic serve
+```
+
+### lancer le projet version portable :
+```
+$ ionic serve -l
+```
+### Après avoir télécharger ionic view sur mobile et avoir créer un compte ionic, faire :
+```
+$ ionic upload
 ```
 
 ### tuto : 
