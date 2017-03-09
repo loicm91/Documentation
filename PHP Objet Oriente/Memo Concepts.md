@@ -23,3 +23,6 @@ L'héritage est très utile pour définir et abstraire certaines fonctionnalité
 
 ##Surcharger / overriding :
 ####Si une Class override les méthodes qui sont héritées, elles (les méthodes) garderont leurs fonctionnalités de départ.
+
+##Polymorphisme
+####Méthode avec le même nom commun à tous les enfants d'une classe mais qui fait une différente action selon l'enfant
