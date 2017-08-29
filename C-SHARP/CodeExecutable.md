@@ -1,6 +1,4 @@
-# Code exécutable :
-
-### [Tuto : MVVM First Application](https://www.tutorialspoint.com/mvvm/mvvm_first_application.htm)
+# Code exécutable : MVVM Pattern
 
 ### Définition : Forme directement utilisable d'un programme informatique, après compilation
 
@@ -16,3 +14,6 @@ On parle de code source et de code exécutable dans le cas des programmes qui do
   Depuis la Vue , l'utilisateur peut intéragir avec des champs ou des boutons qui vont, en cliquant dessus ou en tapant un texte, modifier un état. C'est la VM qui va s'occuper de ces changements grâce au two-way Binding depuis la Vue, en amont il faudra alors définir des propriétes avec l'événement PropertyChanged. VM a aussi besoin d'implémenter l'interface INotifyPropertyChanged et de remonter l'événement PropertyChanged quand il est changé. (Pour les collections : the view-friendly System.Collections.ObjectModel.ObservableCollection<T> is provided,implement the INotifyCollectionChanged interface on collections.);
   
   **3. View** : La Vue est la couche qui va gérer l'apparence. C'est ce que l'utilisateur va voir sur son écran. Idéalement, la Vue est définie seulement en XAML, avec peu de code contenant de la logique.
+
+
+### [Tuto : MVVM First Application](https://www.tutorialspoint.com/mvvm/mvvm_first_application.htm)
