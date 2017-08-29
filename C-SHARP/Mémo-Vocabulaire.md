@@ -18,6 +18,9 @@ Une méthode est membre d'une classe. Il s'agit en général d'une fonction ou p
 ### Objet : 
 Un objet est une instance d'une classe. En comparaison avec la programmation impérative, la classe est un type, tandis que l'objet est une variable de ce type.
 
+### Observable / Observer pattern:
+L'Observable est une liste d'objets (ObservableCollection) qui va envoyer des notifications à l'Observer, puis les passe à la VUE.
+
 ### Propriété : 
 Une propriété est un couple de méthode (get et set) permettant respectivement de lire et d'écrire une valeur particulière de la classe. Cette propriété est utilisé comme un attribut classique d'une classe. Cela permet de contrôler par exemple la validité des modifications d'une valeur.
 
