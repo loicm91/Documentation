@@ -19,5 +19,14 @@ On parle de code source et de code exécutable dans le cas des programmes qui do
 
 ### [Tuto : MVVM First Application](https://www.tutorialspoint.com/mvvm/mvvm_first_application.htm)
 
+### "Langages récents : le code managé
+
+Les langages récents, comme le C# et le Java, résolvent ce problème de compatibilité tout en ajoutant de nombreuses fonctionnalités appréciables au langage, ce qui permet de réaliser des programmes beaucoup plus efficacement.
+
+La compilation en C# ne donne pas un programme binaire, contrairement au C et au C++. Le code C# est en fait transformé dans un langage intermédiaire (appelé CIL ou MSIL) que l'on peut ensuite distribuer à tout le monde. Ce code, bien sûr, n'est pas exécutable lui-même, car l'ordinateur ne comprend que le binaire.
+
+Regardez bien ce schéma pour comprendre comment cela fonctionne :"
+
 ### Schéma :
 ![Tuto : MVVM First Application](https://github.com/loicm91/Documentation/blob/master/C-SHARP/codeExe.png)
+(Source : OpenClassRooms)
