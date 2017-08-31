@@ -7,6 +7,7 @@
 **Visual Studio** est un IDE conçue par Microsoft, c'est un ensemble complet d'outils de développement permettant de générer des applications web ASP.NET, des services web XML, des applications bureautiques et des applications mobiles. 
 On crée des **solutions** (ex : nomDuFichier.sln) qui sont un ensemble de projets.
 Schéma : 
+
 ![](https://github.com/loicm91/Documentation/blob/master/C-SHARP/solutionVS.jpeg)
 
 ### Classe : 
