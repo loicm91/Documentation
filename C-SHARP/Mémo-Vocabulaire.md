@@ -16,6 +16,14 @@ le WFP est la spécification graphique de Microsoft .NET 3.0. Il intègre le lan
 ### XAML :
 XAML est un langage d'interface utilisateur graphique universel pour les applications Web riches (RIA : est une application Web qui offre des caractéristiques similaires aux logiciels traditionnels installés sur un ordinateur. La dimension interactive et la vitesse d'exécution sont particulièrement soignées dans ces applications Web) et les logiciels de bureau. Il utilise un format XML facile à éditer et à réutiliser. La majorité des applications pour Windows Phone et la Windows Store sont écrites en XAML et C#.
 
+### DataBinding : 
+Le Databinding est une manière de lier et d'intéragir avec une donnée présente dans la VUE.
+
+### Grid / StackPanel :
+- *Grid* est une classe qui permet d'agencer son contenu grâce à des colonnes et des lignes comme une grille de BootStrap.
+
+ - *StackPanel* est une classe qui prend des éléments enfants qu'il organise horizontalement et verticalement dans une ligne.
+
 ### Classe : 
 Le C# (prononcé si-charpe), est un langage objet récemment développé par Microsoft pour sa plate-forme .NET. Sa syntaxe ressemble beaucoup au langage Java de Sun Microsystems et au C++. C# est supposé être le langage le plus adapté pour le développement .NET .
 
