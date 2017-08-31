@@ -1,5 +1,14 @@
 # Mémo :
 
+### DOT NET :
+**Microsoft .Net** est le nom donné à un ensemble de produits et de technologies informatiques de l'entreprise Microsoft pour rendre des applications portables sur Internet. Le but est de fournir un serveur web local permettant de gérer des services et évitant d'externaliser des données privées sur un service web de stockage ou un hébergement web tiers.
+
+### Visual Studio :
+**Visual Studio** est un IDE conçue par Microsoft, c'est un ensemble complet d'outils de développement permettant de générer des applications web ASP.NET, des services web XML, des applications bureautiques et des applications mobiles. 
+On crée des **solutions** (ex : nomDuFichier.sln) qui sont un ensemble de projets.
+Schéma : 
+![](https://github.com/loicm91/Documentation/blob/master/C-SHARP/solutionVS.jpeg)
+
 ### Classe : 
 Le C# (prononcé si-charpe), est un langage objet récemment développé par Microsoft pour sa plate-forme .NET. Sa syntaxe ressemble beaucoup au langage Java de Sun Microsystems et au C++. C# est supposé être le langage le plus adapté pour le développement .NET .
 
@@ -22,7 +31,7 @@ Un objet est une instance d'une classe. En comparaison avec la programmation imp
 L'Observable est une liste d'objets (ObservableCollection) qui va envoyer des notifications à l'Observer, puis les passe à la VUE.
 
 ### Propriété : 
-Une propriété est un couple de méthode (get et set) permettant respectivement de lire et d'écrire une valeur particulière de la classe. Cette propriété est utilisé comme un attribut classique d'une classe. Cela permet de contrôler par exemple la validité des modifications d'une valeur.
+Une propriété est un membre qui fournit un mécanisme flexible pour la lecture, l'écriture ou le calcul de la valeur d'un **champ privé**. Les propriétés peuvent être utilisées comme s’il s’agissait de membres de données publics, mais ce sont en fait des méthodes spéciales appelées **accesseurs**(Get et Set). Elles permettent aux données d'être facilement accessibles tout en soutenant quand même la sécurité et la flexibilité des méthodes.
 
 ### Tableau : 
 Un tableau contient plusieurs valeurs du même type (String, Int,...)
