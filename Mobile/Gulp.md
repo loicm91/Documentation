@@ -1,9 +1,9 @@
-#Gulp 
+# Gulp 
 
-###Tuto : 
+### Tuto : 
 [Premiers pas](https://la-cascade.io/gulp-pour-les-debutants/)
 
-###Code commenté : 
+### Code commenté : 
 
 ```
 var gulp = require('gulp');
@@ -40,7 +40,7 @@ gulp.task('watch', ['sass'], function() { //Exécute la compilation à chaque mo
 
 ```
 
-###Evaluation : 
+### Evaluation : 
 
 Code dans le gulpfile.js
 ```
