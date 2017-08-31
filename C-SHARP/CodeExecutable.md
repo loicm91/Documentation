@@ -29,4 +29,8 @@ Regardez bien ce schéma pour comprendre comment cela fonctionne :"
 
 ### Schéma :
 ![Tuto : MVVM First Application](https://github.com/loicm91/Documentation/blob/master/C-SHARP/codeExe.png)
+
+"Le code en langage intermédiaire (CIL) correspond au programme que vous allez distribuer. Sous Windows, il prend l'apparence d'un .exe comme les programmes habituels, mais il ne contient en revanche pas de binaire.
+
+Lorsqu'on exécute le programme CIL, celui-ci est lu par un autre programme (une machine à analyser les programmes, appelée CLR) qui le compile cette fois en vrai programme binaire. Cette fois, le programme peut s'exécuter, ouf !"
 (Source : OpenClassRooms)
