@@ -14,7 +14,7 @@ Schéma :
 le WFP est la spécification graphique de Microsoft .NET 3.0. Il intègre le langage descriptif **XAML** qui permet de l'utiliser d'une manière proche d'une page HTML pour les développeurs.
 
 ### XAML :
-XAML est un langage d'interface utilisateur graphique universel pour les applications Web riches (RIA) et les logiciels de bureau. Il utilise un format XML facile à éditer et à réutiliser. La majorité des applications pour Windows Phone et la Windows Store sont écrites en XAML et C#.
+XAML est un langage d'interface utilisateur graphique universel pour les applications Web riches (RIA : est une application Web qui offre des caractéristiques similaires aux logiciels traditionnels installés sur un ordinateur. La dimension interactive et la vitesse d'exécution sont particulièrement soignées dans ces applications Web) et les logiciels de bureau. Il utilise un format XML facile à éditer et à réutiliser. La majorité des applications pour Windows Phone et la Windows Store sont écrites en XAML et C#.
 
 ### Classe : 
 Le C# (prononcé si-charpe), est un langage objet récemment développé par Microsoft pour sa plate-forme .NET. Sa syntaxe ressemble beaucoup au langage Java de Sun Microsystems et au C++. C# est supposé être le langage le plus adapté pour le développement .NET .
