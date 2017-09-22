@@ -8,6 +8,8 @@ l'infinite scroll charge au fur et à mesure les fichiers lorsque l'on "Scroll D
 TUTO :
 https://www.npmjs.com/package/angular2-infinite-scroll
 
+https://github.com/orizens/ngx-infinite-scroll (ngx-infinite-scroll que j'utilise ici )
+
 Il faut aussi savoir qu'il faut mettre autour d'une liste la div infinite-scroll et lui mettre un style overflow-y: scroll,
 width et un height, pour créer une fenêtre.
 
