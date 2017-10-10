@@ -21,7 +21,7 @@ La présence de sous-domaines peut également être utilisée à des fins de ré
 ## Acheter et Configurer le nom de domaine :
 Créer un compte sur Ovh et ensuite le valider puis choisir un ".com".
 
-###Configuration du DNS :
+### Configuration du DNS :
 Cliquer sur le nom de domaine choisi, puis Zone DNS.
 Cliquer sur 'Ajouter une entrée DNS'
 Deux choix : soit faire un pointage avec 'A' et rentrer une adresse IP qui si à l'avenir on souhaite changer de serveur va garder le même lien vers le nom de domaine, soit CNAME avec l'adresse de l'autre hôte (ex : vps355203.ovh.net.) avec le point final.
